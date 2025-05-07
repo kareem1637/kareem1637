@@ -25,7 +25,7 @@ With hands on experince in embedded systems, AI,  Computer Vision, NLP, and LLMs
 
 ### 🧒 Lilo – Kids chatBot  
 **Description:** A fun and interactive chatbot that engages children with riddles and storytelling using natural language understanding.  
-**Tech Stack:** Wit.ai, Python, Riddle Classifier
+**Tech Stack:** Wit.ai, Python, TTS
 
 ---
 
